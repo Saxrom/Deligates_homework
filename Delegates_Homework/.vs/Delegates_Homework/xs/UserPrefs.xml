@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{05EC0386-48E8-4DC0-A963-F24654623F78}|Default">
+  <MonoDevelop.Ide.ItemProperties.Delegates__Homework FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegates_Homework/Order.cs">
+    <Files>
+      <File FileName="Delegates_Homework/Program.cs" Line="1" Column="1" />
+      <File FileName="Delegates_Homework/Products.cs" />
+      <File FileName="Delegates_Homework/Order.cs" Line="13" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delegates_Homework" expanded="True">
+            <Node name="Delegates_Homework" expanded="True">
+              <Node name="Order.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
