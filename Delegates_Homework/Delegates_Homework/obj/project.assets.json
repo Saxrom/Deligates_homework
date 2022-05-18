@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shahrom/Projects/Delegates_Homework/Delegates_Homework/Delegates_Homework.csproj",
+      "projectUniqueName": "/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/Delegates_Homework.csproj",
       "projectName": "Delegates_Homework",
-      "projectPath": "/Users/shahrom/Projects/Delegates_Homework/Delegates_Homework/Delegates_Homework.csproj",
+      "projectPath": "/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/Delegates_Homework.csproj",
       "packagesPath": "/Users/shahrom/.nuget/packages/",
-      "outputPath": "/Users/shahrom/Projects/Delegates_Homework/Delegates_Homework/obj/",
+      "outputPath": "/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shahrom/.config/NuGet/NuGet.Config"

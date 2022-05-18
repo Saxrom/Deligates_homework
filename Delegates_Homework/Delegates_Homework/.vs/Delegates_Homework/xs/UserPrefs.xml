@@ -1,17 +1,10 @@
-﻿<Properties StartupConfiguration="{05EC0386-48E8-4DC0-A963-F24654623F78}|Default">
+﻿<Properties StartupConfiguration="{C946A234-2E08-44B3-B388-D9848C1A0460}|Default">
   <MonoDevelop.Ide.ItemProperties.Delegates__Homework PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Delegates_Homework/Order.cs">
-    <Files>
-      <File FileName="Delegates_Homework/Order.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Delegates_Homework" expanded="True">
-            <Node name="Delegates_Homework" expanded="True">
-              <Node name="Order.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Delegates_Homework" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

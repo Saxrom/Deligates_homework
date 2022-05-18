@@ -1,0 +1,13 @@
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/bin/Debug/netcoreapp3.1/Delegates_Homework.deps.json
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/bin/Debug/netcoreapp3.1/Delegates_Homework.runtimeconfig.json
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/bin/Debug/netcoreapp3.1/Delegates_Homework.runtimeconfig.dev.json
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/bin/Debug/netcoreapp3.1/Delegates_Homework.dll
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/bin/Debug/netcoreapp3.1/Delegates_Homework.pdb
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/obj/Debug/netcoreapp3.1/Delegates_Homework.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/obj/Debug/netcoreapp3.1/Delegates_Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/obj/Debug/netcoreapp3.1/Delegates_Homework.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/obj/Debug/netcoreapp3.1/Delegates_Homework.AssemblyInfo.cs
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/obj/Debug/netcoreapp3.1/Delegates_Homework.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/obj/Debug/netcoreapp3.1/Delegates_Homework.dll
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/obj/Debug/netcoreapp3.1/Delegates_Homework.pdb
+/Users/shahrom/Desktop/deligates/Delegates_Homework/Delegates_Homework/obj/Debug/netcoreapp3.1/Delegates_Homework.genruntimeconfig.cache

@@ -1,16 +1,43 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace Delegates_Homework
 {
     public class Order
     {
-        Products[] Products;
-        public double TotalPrice;
-        DateTime date;
+        public List<Products> Orders;
 
-        public Order(Products[] product,double totalPrice)
+        public Order()
         {
-            TotalPrice = totalPrice;
-            Products = product;
+            Orders = new List<Products>();
+        }
+
+
+        public void Sale(Products product,byte count)
+        {
+            for (int i = 0; i <count; i++)
+            {
+                Console.WriteLine(product);
+            }
+        }
+
+        public List<Products> Get()
+        {
+            DateTimeOffset now = DateTimeOffset.Now;
+            Console.WriteLine(now);
+
+            return Orders;
+        }
+
+        public int TotalPrice()
+        {
+            int total = 0;
+            foreach (Products product in Orders)
+            {
+                total += product.Price;
+            }
+
+            return total;
         }
     }
 }
